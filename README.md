@@ -2,7 +2,7 @@
 
 > * Programming in Python (pandas, numpy, matplotlib, seaborn)
 > * Using Jupyter Notebook
-> * Using PowerBI and Tableau for data visualisation and dashboards
+> * Using PowerBI for data visualisation and dashboards
 > * Making queries в PostgreSQL
 > * Know the basic concepts of mathematical statistics and probability theory
 

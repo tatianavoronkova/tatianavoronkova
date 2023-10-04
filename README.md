@@ -18,3 +18,6 @@
 <a href="https://t.me/t_n_ya" target="_blank">
   <img src="icons/telegram.png" width="40" height="40">
 </a>
+<a href="mailto:voronkova.cv@gmail.com" target="_blank">
+  <img src="icons/mail-blue 512.png" width="40" height="40">
+</a>

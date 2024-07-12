@@ -30,4 +30,4 @@ I am currently working remotely as a freelancer and available for short-term pro
 ### CERTIFICATES
 |Data Analysis|Python|SQL|
 |------|------|------|
-|1|2|3|
+|<img src="icons/data-analysis-ranepa.jpg" width="300" height="200"> | <img src="icons/stepik-certificate-python-advanced.jpg" width="300" height="200">|<img src="icons/stepik-certificate-sql.jpg" width="300" height="200">|

@@ -4,14 +4,16 @@ I am Tatiana, passionate and enthusiastic data analyst with a Master's degree in
 I am currently working remotely as a freelancer and available for short-term projects and part-time longer-term engagements. Eager to leverage my diverse skill set in a new challenge within the dynamic field of Data Analytics.
 
 ### SKILLS
-
-> * Programming in Python (pandas, numpy, matplotlib, seaborn)
-> * Using Jupyter Notebook
-> * Using PowerBI for data visualisation and dashboards
-> * Making queries в PostgreSQL
-> * Know the basic concepts of mathematical statistics and probability theory
+> * Creating complex queries in **ClickHouse** and **PostgreSQL**
+> * Using **Python** in **Jupyter Notebook** for data analysis
+> * Working on collaborative projects through **Jupyter Hub**, using **Git** for teamwork
+> * Using **PowerBI** and **Superset** to create dashboards and visualize data
+> * Conducting **A/B-tests** using statistical methods
+> * Creating **ETL-pipeline** in **Airflow**
+> * Setting up automatic reporting via **telegram bot** to track sudden changes in KPI
 
 ### TECH STACK 
+
 ![Static Badge](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/pandas-python?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458)
 ![Static Badge](https://img.shields.io/badge/numpy-numpy?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243)
@@ -23,18 +25,17 @@ I am currently working remotely as a freelancer and available for short-term pro
 ![Static Badge](https://img.shields.io/badge/orbit-orbit?style=for-the-badge&color=%23233A51)
 ![Static Badge](https://img.shields.io/badge/arviz-arviz?style=for-the-badge&color=%233EAAAF)
 
-![Static Badge](https://img.shields.io/badge/github-github?style=for-the-badge&logo=github&logoColor=white&color=%23181717)
-![Static Badge](https://img.shields.io/badge/gitlab-gitlab?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
-![Static Badge](https://img.shields.io/badge/jupyter-jupyter?style=for-the-badge&logo=jupyter&logoColor=white&color=%23F37626)
+![Static Badge](https://img.shields.io/badge/postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/clickhouse-clickhouse?style=for-the-badge&logo=clickhouse&logoColor=white&color=%23FFCC01)
 ![Static Badge](https://img.shields.io/badge/redash-redash?style=for-the-badge&logo=redash&logoColor=white&color=%23FF7964)
-![Static Badge](https://img.shields.io/badge/apache_airflow-apacheairflow?style=for-the-badge&logo=apacheairflow&logoColor=white&color=%23017CEE)
-![Static Badge](https://img.shields.io/badge/telegram_bot-telegram_bot?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4)
-
 ![Static Badge](https://img.shields.io/badge/apache_superset-apache_superset?style=for-the-badge&logo=apachesuperset&logoColor=white&color=%2320A6C9)
 ![Static Badge](https://img.shields.io/badge/power_bi-power_bi?style=for-the-badge&color=%23ECD53F)
 
-
-          
+![Static Badge](https://img.shields.io/badge/jupyter-jupyter?style=for-the-badge&logo=jupyter&logoColor=white&color=%23F37626)
+![Static Badge](https://img.shields.io/badge/apache_airflow-apacheairflow?style=for-the-badge&logo=apacheairflow&logoColor=white&color=%23017CEE)
+![Static Badge](https://img.shields.io/badge/gitlab-gitlab?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
+![Static Badge](https://img.shields.io/badge/telegram_bot-telegram_bot?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4)
+    
 ### CONTACTS
 
 <a href="https://www.linkedin.com/in/tatianavoronkova" target="_blank">

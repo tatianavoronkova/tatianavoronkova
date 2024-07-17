@@ -49,6 +49,8 @@ I am currently working remotely as a freelancer and available for short-term pro
 </a>
 
 ### CERTIFICATES
-|Data Analysis|Python|SQL|
-|------|------|------|
-|<img src="icons/data-analysis-ranepa.jpg" width="300" height="200"> | <img src="icons/stepik-certificate-python-advanced.jpg" width="300" height="200">|<img src="icons/stepik-certificate-sql.jpg" width="300" height="200">|
+|Data Analyst|Python|SQL|
+|:---:|:---:|:---:|
+|<img src="icons/KarpovCourses_SimulatorDA_en.jpg" width="300" height="180"> | <img src="icons/stepik-certificate-python-advanced.jpg" width="300" height="180">|<img src="icons/stepik-certificate-sql.jpg" width="300" height="180">|
+|Data Analysis|MS Excel VBA|Lean Six Sigma|
+|<img src="icons/data-analysis-ranepa.jpg" width="300" height="180"> | <img src="icons/MS_Excel_VBA.jpg" width="300" height="180"> | <img src="icons/Tatyana_Zelentsova_Bronze_Certification.jpg" width="300" height="180"> |

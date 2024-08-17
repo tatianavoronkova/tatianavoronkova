@@ -1,7 +1,7 @@
 ### WELCOME
 Hello! I'm a passionate data analyst with a keen eye for transforming data into actionable insights. I have a Master's degree in IT and Mathematics and 6+ years experience in data analysis leading the planning department in a global manufacturing company. With expertise in **Python**, **SQL**, **Excel** and various **data visualization tools**, I specialize in uncovering patterns, trends, and opportunities hidden within complex datasets.
 
-On this page you'll find a collection of my projects that demonstrate my skills in data analysis, **statistical modeling**, and **dashboard creation**. Whether it's **automating data workflows**, performing **A/B testing**, or building **interactive visualizations**, each project reflects my commitment to delivering data-driven solutions.
+On this page you'll find a collection of my projects that demonstrate my skills in **data analysis**, **statistical modeling**, and **dashboard creation**. Whether it's **automating data workflows**, performing **A/B testing**, or building **interactive visualizations**, each project reflects my commitment to delivering data-driven solutions.
 
 I'm available for short-term projects and longer-term engagements. Eager to leverage my diverse skill set in a new challenge within the dynamic field of Data Analytics. Feel free to explore my work and connect if you'd like to collaborate or learn more about my approach to data analysis.
 
@@ -11,7 +11,6 @@ I'm available for short-term projects and longer-term engagements. Eager to leve
 > - **Data Visualization:** Experienced in creating compelling visual narratives using tools like **Power BI**, **Superset**, and **Matplotlib**, making complex data easily understandable for stakeholders.
 > - **ETL Processes:** Capable of designing and automating Extract, Transform, Load **ETL-pipelines** using **Apache Airflow** and other tools to streamline data workflows.
 > - **Dashboard Development:** Adept at building interactive dashboards that provide real-time insights and allow for in-depth analysis, tailored to the needs of management and other decision-makers.
-> - **Business Intelligence:** Strong understanding of **key business metrics** and financial indicators, enabling me to analyze and interpret data in a way that aligns with organizational goals.
 > - **Collaboration & Automation:** Experienced in working on collaborative projects through **Jupyter Hub**, utilizing **Git** for version control and teamwork, and setting up automatic reporting via **Telegram bots** to monitor and respond to sudden changes in key performance indicators (KPIs).
 
 ### TECH STACK 

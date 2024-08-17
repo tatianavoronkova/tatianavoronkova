@@ -1,16 +1,18 @@
-### Hi there :wave:
-I am Tatiana, passionate and enthusiastic data analyst with a Master's degree in IT and Mathematics. I bring over 6 years of experience in data analysis leading the planning department in a global manufacturing company. During this time, I acquired skills in data analysis, process automation and KPIs tracking. Proficient in forecasting methods and at developing insightful KPI Dashboards, I specialize in advanced analytics techniques such as data pre-processing, statistical methods application, data visualization and insights communication.
+### WELCOME
+Hello! I'm a passionate data analyst with a keen eye for transforming data into actionable insights. I have a Master's degree in IT and Mathematics and 6+ years experience in data analysis leading the planning department in a global manufacturing company. With expertise in **Python**, **SQL**, **Excel** and various **data visualization tools**, I specialize in uncovering patterns, trends, and opportunities hidden within complex datasets.
 
-I am currently working remotely as a freelancer and available for short-term projects and part-time longer-term engagements. Eager to leverage my diverse skill set in a new challenge within the dynamic field of Data Analytics.
+On this page you'll find a collection of my projects that demonstrate my skills in data analysis, **statistical modeling**, and **dashboard creation**. Whether it's **automating data workflows**, performing **A/B testing**, or building **interactive visualizations**, each project reflects my commitment to delivering data-driven solutions.
+
+I'm available for short-term projects and longer-term engagements. Eager to leverage my diverse skill set in a new challenge within the dynamic field of Data Analytics. Feel free to explore my work and connect if you'd like to collaborate or learn more about my approach to data analysis.
 
 ### SKILLS
-> * Creating complex queries in **ClickHouse** and **PostgreSQL**
-> * Using **Python** in **Jupyter Notebook** for data analysis
-> * Working on collaborative projects through **Jupyter Hub**, using **Git** for teamwork
-> * Using **PowerBI** and **Superset** to create dashboards and visualize data
-> * Conducting **A/B-tests** using statistical methods
-> * Creating **ETL-pipeline** in **Airflow**
-> * Setting up automatic reporting via **telegram bot** to track sudden changes in KPI
+> - **Data Cleaning:** Proficient in **Python** (Pandas, NumPy, Scipy) and **SQL** within **ClickHouse** and **PostgreSQL** for efficient data manipulation, ensuring datasets are ready for analysis.
+> - **Statistical Analysis:** Skilled in performing **A/B testing**, regression analysis, hypothesis testing, and other statistical methods to validate findings and support data-driven decisions.
+> - **Data Visualization:** Experienced in creating compelling visual narratives using tools like **Power BI**, **Superset**, and **Matplotlib**, making complex data easily understandable for stakeholders.
+> - **ETL Processes:** Capable of designing and automating Extract, Transform, Load **ETL-pipelines** using **Apache Airflow** and other tools to streamline data workflows.
+> - **Dashboard Development:** Adept at building interactive dashboards that provide real-time insights and allow for in-depth analysis, tailored to the needs of management and other decision-makers.
+> - **Business Intelligence:** Strong understanding of **key business metrics** and financial indicators, enabling me to analyze and interpret data in a way that aligns with organizational goals.
+> - **Collaboration & Automation:** Experienced in working on collaborative projects through **Jupyter Hub**, utilizing **Git** for version control and teamwork, and setting up automatic reporting via **Telegram bots** to monitor and respond to sudden changes in key performance indicators (KPIs).
 
 ### TECH STACK 
 
